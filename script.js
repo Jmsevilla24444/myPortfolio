@@ -62,7 +62,7 @@ function buildMarquee() {
     { icon: '🇵🇭', text: 'Philippines Based' },
     { icon: '🕐', text: 'Available Now' },
     { icon: '💻', text: 'IT Graduate' },
-    { icon: '✅', text: 'Focused on Quality Work' },
+    { icon: '✅', text: 'Focus on Accuracy' },
     { icon: '📧', text: 'Email Management' },
     { icon: '🎯', text: 'Detail-Oriented' },
   ];
