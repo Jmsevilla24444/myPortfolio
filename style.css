@@ -1414,7 +1414,7 @@ body::before {
 .sample-card:nth-child(3):hover { box-shadow: 8px 8px 0 var(--pink); border-color: var(--pink); transform: translate(-4px, -4px); }
 .sample-card:nth-child(4):hover { box-shadow: 8px 8px 0 var(--red); border-color: var(--red); transform: translate(-4px, -4px); }
 .sample-card:nth-child(5):hover { box-shadow: 8px 8px 0 var(--yellow); border-color: var(--yellow); transform: translate(-4px, -4px); }
-.sample-card:nth-child(6):hover { box-shadow: 8px 8px 0 var(--black); border-color: var(--black); transform: translate(-4px, -4px); }
+.sample-card:nth-child(6):hover { box-shadow: 8px 8px 0 var(--green); border-color: var(--green); transform: translate(-4px, -4px); }
 
 .sample-top {
   display: flex;
