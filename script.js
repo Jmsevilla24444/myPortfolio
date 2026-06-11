@@ -55,9 +55,9 @@ createDots();
 =========================== */
 function buildMarquee() {
   const items = [
-    { icon: '⚡', text: 'General VA' },
-    { icon: '📒', text: 'Bookkeeping Support' },
+    { icon: '🏡', text: 'Real Estate VA' },
     { icon: '🔍', text: 'Lead Generation' },
+    { icon: '📋', text: 'MLS Listings' },
     { icon: '🤖', text: 'AI-Powered' },
     { icon: '🇵🇭', text: 'Philippines Based' },
     { icon: '🕐', text: 'Available Now' },
@@ -65,6 +65,8 @@ function buildMarquee() {
     { icon: '✅', text: 'Focus on Accuracy' },
     { icon: '📧', text: 'Email Management' },
     { icon: '🎯', text: 'Detail-Oriented' },
+    { icon: '📝', text: 'Transaction Support' },
+    { icon: '📊', text: 'CRM Management' },
   ];
 
   const track = document.querySelector('.marquee-track');
@@ -358,4 +360,4 @@ window.addEventListener('scroll', () => {
 });
 
 console.log('%c👋 Hi there!', 'color:#FF6B35; font-size:22px; font-weight:900; font-family:Syne,sans-serif;');
-console.log('%cPortfolio of John Michael Sevilla — General VA & Bookkeeping Support 🇵🇭', 'color:#8B7355; font-size:13px;');
+console.log('%cPortfolio of John Michael Sevilla — Real Estate Virtual Assistant 🇵🇭', 'color:#8B7355; font-size:13px;');
